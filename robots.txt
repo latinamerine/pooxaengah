@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rohpeishoo.50shadesofrgba.com/sitemap.xml
